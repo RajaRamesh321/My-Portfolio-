@@ -96,6 +96,11 @@ nav ul li a:hover::after{
 .about-col-1 img{
     width: 100%;
     border-radius: 15px;
+    background-size: cover;
+}
+#work1{
+    width: 421px;
+    height: 523px;
 }
 
 about-col-2{
@@ -408,4 +413,8 @@ nav .fa-solid{
     color: #61b752;
     margin-top: -40px;
     display: block;
+}
+
+.fa-suare-facebook:hover{
+display: none;
 }
